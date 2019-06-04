@@ -13,8 +13,8 @@ Ball.Preloader.prototype = {
 		this.load.image('title', 'img/tateti.png');
 		// this.load.image('button-pause', 'img/button-pause.png');
 		// this.load.image('screen-bg', 'img/screen-bg.png');
-		this.load.image('screen-mainmenu', 'img/fondo640.jpg');
-		this.load.image('screen-howtoplay', 'img/fondocolor.jpg');
+		this.load.image('screen-mainmenu', 'img/Fondo640.jpg');
+		this.load.image('screen-howtoplay', 'img/Fondocolor.jpg');
 		this.load.image('cuadro', 'img/cuadro.png');
 		// this.load.image('border-horizontal', 'img/border-horizontal.png');
 		// this.load.image('border-vertical', 'img/border-vertical.png');
